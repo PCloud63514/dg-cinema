@@ -1,4 +1,4 @@
-package devgraft.cinema.booking.domain;
+package devgraft.cinema.screen.domain;
 
 import java.time.LocalDateTime;
 
