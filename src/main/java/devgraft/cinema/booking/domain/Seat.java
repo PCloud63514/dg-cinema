@@ -1,4 +1,4 @@
-package devgraft.cinema;
+package devgraft.cinema.booking.domain;
 
 public class Seat {
     Long id;
